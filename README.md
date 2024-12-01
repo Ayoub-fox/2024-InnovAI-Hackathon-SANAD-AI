@@ -42,12 +42,12 @@ Specialized agents for different aspects of pregnancy care
 
 
 
-Setup Instructions
-clone the repository 
-pip install flask transformers torch Pillow python-multipart
-run the notebook on kaggle
-then move to your machine cd the project and run 
-python main.py
+## Setup Instructions
+clone the repository </br>
+pip install flask transformers torch Pillow python-multipart </br>
+run the notebook on kaggle </br>
+then move to your machine cd the project and run  </br>
+python main.py </br>
 you shoulb be able to see a local host link click it and voila the app is there on your machine 
 
 ## demo
