@@ -1,7 +1,7 @@
 
-# Pregnancy Support System (حامل - Hamil)
+# Pregnancy Support System (SANAD_AI)
 ## Abstract
-Hamil is an AI-powered chatbot system designed to support pregnant women in Morocco by providing accessible pregnancy-related guidance in Moroccan Arabic (Darija). The system combines advanced language models with specialized medical knowledge to offer nutritional advice, answer general pregnancy questions, and provide postpartum support.
+Sanad is an AI-powered chatbot system designed to support pregnant women in Morocco by providing accessible pregnancy-related guidance in Moroccan Arabic (Darija). The system combines advanced language models with specialized medical knowledge to offer nutritional advice, answer general pregnancy questions, and provide postpartum support.
 Background and Problem Statement
 In Morocco, many pregnant women face challenges accessing reliable pregnancy-related information in their native language, Darija. While healthcare resources exist, language barriers and limited access to specialized medical advice create gaps in prenatal and postpartum care. This issue is particularly acute in:
 
