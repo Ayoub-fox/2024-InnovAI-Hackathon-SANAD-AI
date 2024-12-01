@@ -49,3 +49,7 @@ run the notebook on kaggle
 then move to your machine cd the project and run 
 python main.py
 you shoulb be able to see a local host link click it and voila the app is there on your machine 
+
+## demo
+https://github.com/user-attachments/assets/078dea4a-31f5-44fa-a70e-0b98a9c4378f
+
